@@ -2,7 +2,7 @@
 ## Overview
 This repository contains AshleyRamdin's solution to the coding challenge at: https://www.letsrevolutionizetesting.com/challenge
 
-# Technical requirements
+## Technical requirements
 * Python 3
 
 ## Running the code
