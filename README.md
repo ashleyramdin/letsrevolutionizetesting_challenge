@@ -6,7 +6,10 @@ This repository contains AshleyRamdin's solution to the coding challenge at: htt
 * Python 3
 
 ## Running the code
-Command to run the code: python letsrevolutionizetesting_solution.py
+Command to run the code: 
+```
+python letsrevolutionizetesting_solution.py
+```
 
 ## Expected Output
 ```
